@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*- 
 '''
 @version V1.0.0
-@Time : 2021/2/14 8:07 下午
-@Author : azun
+@Time : 2021/5/26 14:58 下午
+@Author : ykt
 @File : SimBERT_train.py 
 '''
 import os
