@@ -10,7 +10,8 @@ whitening : https://github.com/bojone/BERT-whitening
 
 # 训练
 ## Simsce训练和提取特征
-```python SimBERT_train.py
+```
+python SimBERT_train.py
 python SimBERT_predict.py
 ```
 之后会生成feature_train.npy 和 feature_test.npy 分别代表train和test在Simsce训练后提取的对应特征。
