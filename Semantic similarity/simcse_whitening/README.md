@@ -2,6 +2,7 @@
 主要使用pytorch 实现无监督Simsce和whitening，参考：
 
 Simsce     : https://github.com/bojone/SimCSE
+
 whitening : https://github.com/bojone/BERT-whitening
 
 # 数据准备
