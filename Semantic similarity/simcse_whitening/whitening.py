@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*- 
 '''
 @version V1.0.0
-@Time : 2021/2/14 8:07 下午
-@Author : azun
-@File : SimBERT_train.py 
+@Time : 2021/5/26 14:59 下午
+@Author : ykt
+@File : whitening.py 
 '''
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
