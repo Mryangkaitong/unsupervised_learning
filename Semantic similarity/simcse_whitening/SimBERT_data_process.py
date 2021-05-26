@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*- 
 '''
 @version V1.0.0
-@Time : 2021/2/18 10:11 下午 
-@Author : azun
+@Time : 2021/5/26 14:57 下午 
+@Author : ykt
 @File : SimBERT_data_process.py 
 '''
 from torch.utils.data import Dataset
